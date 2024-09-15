@@ -1,0 +1,110 @@
+html {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+/*Estilos de fuente y color usando Google Fonts*/
+body {
+    color: rgb(209, 68, 68);
+    background-color: rgb(233, 233, 94);
+    font-family: 'Lato', sans-serif;/ 
+}
+
+.nav {
+    background-color: rgb(255, 194, 81);
+    color: white;
+    padding: 10px 30px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav:hover {
+    background: rosybrown;
+}
+
+nav {
+    background: rgb(76, 76, 126);
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    color: rgb(76, 76, 126);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2, h3, h4, h5 {
+    font-size: 1.5rem;
+    color: orangered;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    margin-top: 20px;
+}
+
+.pasado, .pasado2, .pasado3 {
+    width: 80%; 
+    height: auto;  
+    margin: 5px; 
+}
+.contenedor2 {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    margin-top: 20px;
+}
+
+.presente, .presente2, .presente3 {
+    width: 80%; 
+    height: auto; 
+    margin: 5px; 
+}
+.contenedor3 {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    margin-top: 20px;
+}
+
+.futuro, .futuro2, .futuro3 {
+    width: 80%; 
+    height: auto; 
+    margin: 5px; 
+}
+.datos-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+}
+.me-image {
+    width: 21%;
+    margin-left: 100px; 
+    margin-top: 110px;  
+}
+footer{
+    background-color: rgb(76, 76, 126);
+    color: white;
+    font-size: 1rem;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+}
