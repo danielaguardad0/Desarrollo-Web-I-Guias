@@ -25,13 +25,13 @@ h1{
     background-color: #464d52;
 }
 #encabezado{
-    margin: 0px auto;
+    margin: 0 auto;
     width: 80%;
     min-width: 650px;
     max-width: 960px;
 }
 #descripcion{
-    width: 37.5%;
+    width: 360px;
     height: auto;
     background-color: #888;
     float: left;
