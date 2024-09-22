@@ -37,7 +37,7 @@ h1{
     float: left;
 }
 #descripcion p{
-    margin: 5%;
+    margin: 15px;
     color: white;
     font-weight: bold;
     line-height: 180%;
@@ -46,6 +46,8 @@ h1{
 
 #imgDesc img {
     float: left;
+}
+#imgDesc{
     overflow: hidden;
 }
 
