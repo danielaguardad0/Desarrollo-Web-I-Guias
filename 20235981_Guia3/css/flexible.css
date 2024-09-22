@@ -139,11 +139,11 @@ footer{
     padding-bottom: 1px;
 
 }
-/*Selector agregado*/
+/*Selector agregado
 #superior #encabezado #logo{
     margin: 2% 0px;
     width: 21%;
-}
+}*/
 #superior #encabezado #imgDesc img{
     float: left;
     width: 62.5%;
