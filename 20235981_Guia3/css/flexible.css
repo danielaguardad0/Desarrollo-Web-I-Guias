@@ -56,8 +56,7 @@ h1{
     width: 80%;
     margin: 0px auto;
     clear: left;
-    min-width: 650px;
-    max-width: 960px;
+    width: 960px;
 }
 /*PIE DE LA PAGINA*/
 footer{
