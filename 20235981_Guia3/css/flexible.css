@@ -87,6 +87,7 @@ footer{
 /*Tercer div, sexto div, ...*/
 #contenido div:nth-child(3n){
     margin-right: 0px;
+    clear: none;
 }
 .boton{
     background-color: #464d52;
