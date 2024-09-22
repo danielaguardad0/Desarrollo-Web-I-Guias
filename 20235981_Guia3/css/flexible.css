@@ -37,7 +37,7 @@ h1{
     float: left;
 }
 #descripcion p{
-    margin: 25px;
+    margin: 20px;
     color: white;
     font-weight: bold;
     line-height: 180%;
@@ -70,7 +70,7 @@ footer{
 }
 /*CONTENIDO DE LA PAGINA INDEX*/
 .plan{
-    width: 260px;
+    width: 255px;
     padding: 20px;
     background-color: white;
     margin: 30px 15px;
