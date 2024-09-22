@@ -46,9 +46,11 @@ h1{
 
 #imgDesc img {
     float: left;
+    width: 60%;
 }
 #imgDesc{
     overflow: hidden;
+    width: 100%;
 }
 
 /*Contenido principal de las paginas*/
