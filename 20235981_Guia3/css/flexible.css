@@ -31,10 +31,11 @@ h1{
     max-width: 960px;
 }
 #descripcion{
-    width: 360px;
-    height: 360px;
+    width: 40%;
+    height: auto;
     background-color: #888;
-    float: left;
+    display: inline-block;
+    vertical-align: top;
 }
 #descripcion p{
     margin: 20px;
