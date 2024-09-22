@@ -86,8 +86,7 @@ section article img {
 
 section article:nth-child(2) {
     background-color: rgba(70, 130, 180, 0.9);
+    display: none;
 }
-.renacido{
-    visibility: hidden;
-}
+
 
