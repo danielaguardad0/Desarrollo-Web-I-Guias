@@ -89,6 +89,9 @@ footer{
     margin-right: 0px;
     clear: none;
 }
+#contenido div:nth-child(4n+1){
+    clear: both;
+}
 .boton{
     background-color: #464d52;
     padding: 7px;
