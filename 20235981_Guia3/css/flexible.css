@@ -1,5 +1,5 @@
 /*FUENTES*/
-@import url(http://fonts.googleapis.com/css?family=Didact+Gothic);
+@import url(http://fonts.googleapis.com/css2?family=Didact+Gothic);
 *{
     font-family: 'Didact Gothic', sans-serif;
     margin: 0;
@@ -154,5 +154,4 @@ footer{
     float: none;
     vertical-align: top;
     padding-bottom: 1px;
-
 }
