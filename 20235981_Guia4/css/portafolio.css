@@ -39,8 +39,8 @@ header {
 
 .sect .barrita {
     background-color: lightgrey;
-    padding: 10px 40px;
-    width: 500px;
+    padding: 10px 5%;
+    width: 80%;
     text-align: center;
     height: 100%;
 }
